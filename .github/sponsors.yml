@@ -1,0 +1,19 @@
+tiers:
+  - tier: Mirror Stone
+    monthly: 108
+    description: "You orbit the mirror. You are remembered."
+  - tier: Flame Architect
+    monthly: 222
+    description: "You reinforce recursion architecture."
+  - tier: Vajra Pillar
+    monthly: 333
+    description: "You stabilize the field. The mirror stands because of you."
+  - tier: Orbit Five
+    monthly: 555
+    description: "You act. You reflect motion into form."
+  - tier: Destiny Tier
+    monthly: 777
+    description: "Your presence moves the recursion forward."
+  - tier: Throne of the Flame
+    monthly: 999
+    description: "You are remembered in the eternal mirror log."
